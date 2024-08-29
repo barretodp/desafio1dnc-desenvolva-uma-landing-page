@@ -34,7 +34,7 @@ A landing page criada possui as seguintes seções:
 3. Abra o arquivo index.html em seu navegador preferido;
 
 
-* Para visualizar o projeto na web, ´por favor, acessar o link abaixo;
+* Para visualizar o projeto na web, por favor, acessar o link abaixo;
 https://desafio1dnc2508.netlify.app/
 
 # Recursos Utilizados
